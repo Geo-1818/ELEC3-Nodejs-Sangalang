@@ -47,6 +47,6 @@ try {
     console.log(formatResult(operation, numbers, result));
 
 } catch (error) {
-    console.error("Error:", error.message);
+    console.error("Error: ", error.message);
     process.exitCode = 1;
 }

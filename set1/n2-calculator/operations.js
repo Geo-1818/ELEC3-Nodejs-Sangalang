@@ -1,5 +1,5 @@
 
-// Name: YOUR FULL NAME | Section: IV-BSIT __ | Activity: N2 | Date: 2026-11-23
+// Name: IAN GEFRNEY SANGALANG | Section: IV-BSIT B | Activity: N2 | Date: 2026-11-23
 
 function add(a, b) {
     return a + b;
@@ -34,5 +34,5 @@ module.exports = {
     subtract,
     multiply,
     divide,
-    average
+    average 
 };
