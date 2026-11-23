@@ -1,0 +1,21 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "N1 Node.js Project Setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Ian Geofrey Sangalang",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
