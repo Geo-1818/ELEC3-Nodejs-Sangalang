@@ -34,5 +34,5 @@ module.exports = {
     subtract,
     multiply,
     divide,
-    average 
+    average
 };
