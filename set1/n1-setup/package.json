@@ -10,7 +10,7 @@
     "node",
     "npm"
   ],
-  "author": "Ian Geofrey Sangalang",
+  "author": "Ian Geofrey P. Sangalang",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
